@@ -1,0 +1,5 @@
+argparse
+tabulate
+password-generator
+csv
+pytest
